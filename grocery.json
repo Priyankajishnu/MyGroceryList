@@ -1,0 +1,84 @@
+
+[
+       
+        {
+            "serial_number":"1",
+            "Item_Name":"Milk",
+            "Quantity":"2l",
+            "Unit":"46",
+            "dep":"Diary",
+            "Notes":"Milma"
+        },
+        {
+            "serial_number":"2",
+            "Item_Name":"Mango",
+            "Quantity":"1kg",
+            "Unit":"40",
+            "dep":"Fruits",
+            "Notes":"Mulgoba Mango"
+        },
+        {
+            "serial_number":"3",
+            "Item_Name":"Carrot",
+            "Quantity":"1/2kg",
+            "Unit":"32",
+            "dep":"Vegetables",
+            "Notes":"Fresh Carrot"
+        },
+        {
+            "serial_number":"4",
+            "Item_Name":"Jeera Rice",
+            "Quantity":"2kg",
+            "Unit":"70",
+            "dep":"Rice",
+            "Notes":"Small Biriyani Rice"
+        },
+        {
+            "serial_number":"5",
+            "Item _Name":"Turmeric Powder",
+            "Quantity":"200gms",
+            "Unit":"23",
+            "dep":"pantry",
+            "Notes":"powder"
+        },
+        {
+            "serial_number":"6",
+            "Item_Name":"Paneer",
+            "Quantity":"250gms",
+            "Unit":"55",
+            "dep":"Diary",
+            "Notes":"ID Paneer"
+        },
+        {
+            "serial_number":"7",
+            "Item_Name":"Chick Peas",
+            "Quantity":"1/2kg",
+            "Unit":"63",
+            "dep":"Legume",
+            "Notes":"white color"
+        },
+        {
+            "serial_number":"8",
+            "Item_Name":"Chicken",
+            "Quantity":"1.5kg",
+            "Unit":"200",
+            "dep":"Meat",
+            "Notes":"Country Chicken"
+        },
+        {
+            "serial_number":"9",
+            "Item_Name":"Mung Bean",
+            "Quantity":"1/2kg",
+            "Unit":"48",
+            "dep":"Legume",
+            "Notes":"Green color"
+        },
+        {
+            "serial_number":"10",
+            "Item_Name":"Coffee Powder",
+            "Quantity":"300gms",
+            "Unit":"68",
+            "dep":"Beverages",
+            "Notes":"Filter Coffee Powder"
+        }
+    ]

@@ -1,0 +1,45 @@
+
+    body{
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #demo button{
+        width: 30%;
+        padding:20px;
+        margin-left:35.5%;
+        margin-top: 50px;
+        font-size:20px;
+        background: green;
+        color: white;
+        cursor: pointer;
+        border: 1px solid limegreen;
+    }
+    #demo button:hover{
+        background:yellowgreen;
+    }
+    
+    table,th,td{
+        border:2px solid black;
+        border-collapse: collapse;
+       
+    }
+     table{
+        margin-left:23% ;
+    
+    }
+    th{
+        background:yellow;
+        font-weight: bold;
+        padding: 15px;
+        
+    }
+    td{
+        background:transparent;
+        padding: 15px;
+        font-weight: bold;
+        font-size: 20px;
+        color: white;
+    } 
+    tr:hover{
+        background:salmon;
+    }
